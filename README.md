@@ -10,14 +10,12 @@ A beginner-friendly collection of networking and cybersecurity concepts explaine
 * Open and Closed Ports
 * Network Protocols
 * TCP and UDP
-* IP Address
-* MAC Address
+
 * SSL and TLS
 * Digital Certificates
-* Encryption and Decryption
-* OSI Model
-* TCP/IP Model
-* Common Network Services
+
+
+
 
 ## 🎯 Purpose
 
